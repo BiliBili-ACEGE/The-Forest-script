@@ -1,6 +1,6 @@
 # The-Forest-script
 这是森林(The Forest)这款游戏的脚本，使用python制作
-使用方法Usage:
+# 使用方法Usage:
 首先你需要有一个朋友 First you need to have a friend
 在游戏当中帮你推小推车 help you push the cart in the middle of the game
 需要是你开的房间  it needs to be the room you open
