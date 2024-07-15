@@ -130,7 +130,7 @@ class ScriptGUI(QWidget):
             try:
                 duration = int(self.time_input.text())
                 interval = self.interval / 1000.0  # 转换为秒
-                keys = [self.key1, self.key2]
+                keys = [(self.key1, 3), (self.key2, 2)]  # 设置按键和按压次数
             except ValueError:
                 return
 
