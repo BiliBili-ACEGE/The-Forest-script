@@ -9,4 +9,7 @@ Then you aim at the two logs on the cart in the middle of the game and click the
 如果是你的好友开的房间，那就是他使用脚本，你来推小推车  
 If it's your friend's server, it's that he uses a script and you push the cart
 
- 
+ # 注意事项Precautions:
+      由于Github抽风，图片传不上，所以要下载源代码运行的大佬请下载资源部分的压缩包里面有图片  
+      Due to the Github convulsion,The picture can't be uploaded.,So if you want to download the source code to run, please download the compressed package in the resource section with the picture.
+
